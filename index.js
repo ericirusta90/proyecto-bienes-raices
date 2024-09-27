@@ -29,7 +29,7 @@ try {
 }
 
 
-//Habilitar Pug
+// Habilitar Pug
 app.set('view engine', 'pug');
 app.set('views', './views');
 
